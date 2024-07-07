@@ -1,0 +1,2 @@
+### user 등록 테스트
+POST localhost:9010/api/v1/queue/register?user_id=1
